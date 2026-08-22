@@ -8,6 +8,7 @@
 | [0217-contains-duplicate](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0217-contains-duplicate) |
 | [0643-maximum-average-subarray-i](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0643-maximum-average-subarray-i) |
 | [2090-k-radius-subarray-averages](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2090-k-radius-subarray-averages) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2319-check-if-matrix-is-x-matrix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -64,4 +65,8 @@
 |  |
 | ------- |
 | [3959-check-good-integer](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3959-check-good-integer) |
+## Matrix
+|  |
+| ------- |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2319-check-if-matrix-is-x-matrix) |
 <!---LeetCode Topics End-->
