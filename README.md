@@ -27,6 +27,7 @@
 | [0069-sqrtx](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0204-count-primes) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3959-check-good-integer](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3959-check-good-integer) |
 ## Enumeration
 |  |
 | ------- |
@@ -59,4 +60,8 @@
 |  |
 | ------- |
 | [3340-check-balanced-string](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3340-check-balanced-string) |
+## Simulation
+|  |
+| ------- |
+| [3959-check-good-integer](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3959-check-good-integer) |
 <!---LeetCode Topics End-->
