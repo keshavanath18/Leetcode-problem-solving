@@ -7,6 +7,7 @@
 | [0204-count-primes](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0217-contains-duplicate) |
 | [0643-maximum-average-subarray-i](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0643-maximum-average-subarray-i) |
+| [1572-matrix-diagonal-sum](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1572-matrix-diagonal-sum) |
 | [2090-k-radius-subarray-averages](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2090-k-radius-subarray-averages) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2319-check-if-matrix-is-x-matrix) |
 ## Sliding Window
@@ -68,5 +69,6 @@
 ## Matrix
 |  |
 | ------- |
+| [1572-matrix-diagonal-sum](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1572-matrix-diagonal-sum) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2319-check-if-matrix-is-x-matrix) |
 <!---LeetCode Topics End-->
