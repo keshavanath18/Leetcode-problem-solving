@@ -55,4 +55,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0069-sqrtx) |
+## String
+|  |
+| ------- |
+| [3340-check-balanced-string](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3340-check-balanced-string) |
 <!---LeetCode Topics End-->
