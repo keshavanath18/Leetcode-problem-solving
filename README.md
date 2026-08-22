@@ -26,6 +26,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0204-count-primes) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Enumeration
 |  |
 | ------- |
