@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0217-contains-duplicate) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Sorting
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 ## String
 |  |
 | ------- |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3340-check-balanced-string](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3340-check-balanced-string) |
 ## Simulation
 |  |
