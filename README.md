@@ -43,6 +43,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0204-count-primes) |
+| [0504-base-7](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0504-base-7) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3959-check-good-integer](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3959-check-good-integer) |
@@ -82,6 +83,7 @@
 | [0165-compare-version-numbers](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0242-valid-anagram) |
 | [0459-repeated-substring-pattern](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0459-repeated-substring-pattern) |
+| [0504-base-7](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1528-shuffle-string](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1528-shuffle-string) |
