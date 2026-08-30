@@ -11,6 +11,7 @@
 | [0414-third-maximum-number](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0414-third-maximum-number) |
 | [0643-maximum-average-subarray-i](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0643-maximum-average-subarray-i) |
 | [1046-last-stone-weight](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1046-last-stone-weight) |
+| [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1528-shuffle-string](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1528-shuffle-string) |
 | [1572-matrix-diagonal-sum](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1572-matrix-diagonal-sum) |
 | [2090-k-radius-subarray-averages](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2090-k-radius-subarray-averages) |
