@@ -15,6 +15,7 @@
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1528-shuffle-string](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1528-shuffle-string) |
 | [1572-matrix-diagonal-sum](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1572-matrix-diagonal-sum) |
 | [2090-k-radius-subarray-averages](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2090-k-radius-subarray-averages) |
@@ -44,6 +45,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0414-third-maximum-number) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Math
 |  |
 | ------- |
