@@ -1,13 +1,27 @@
 class Solution {
     public int[] diStringMatch(String s) {
-        int n=s.length();
-        int perm[]=new int[n+1];
-        int l=0,r=n;
-        for(int i=0;i<s.length();i++){
-            if(s.charAt(i)=='I')perm[i]=l++;
-            else perm[i]=r--;
+         
+        char[] ch = s.toCharArray();
+
+        int n = ch.length;
+        int[] ans = new int[n + 1];
+
+        int low = 0;
+        int high = n;
+
+        for (int i = 0; i < n; i++) {
+
+            if (ch[i] == 'I') {
+                ans[i] = low;
+                low++;
+            } else {
+                ans[i] = high;
+                high--;
+            }
         }
-        perm[n]=l;
-        return perm;
+
+        ans[n] = low;
+
+        return ans;
     }
 }
