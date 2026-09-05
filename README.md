@@ -9,6 +9,7 @@
 | [0164-maximum-gap](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0164-maximum-gap) |
 | [0204-count-primes](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0217-contains-duplicate) |
+| [0274-h-index](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0414-third-maximum-number) |
 | [0643-maximum-average-subarray-i](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0643-maximum-average-subarray-i) |
@@ -48,6 +49,7 @@
 | [0164-maximum-gap](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0414-third-maximum-number) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -176,4 +178,8 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0164-maximum-gap) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
