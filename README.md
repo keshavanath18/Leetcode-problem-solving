@@ -6,6 +6,7 @@
 | ------- |
 | [0137-single-number-ii](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0162-find-peak-element) |
+| [0164-maximum-gap](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0164-maximum-gap) |
 | [0204-count-primes](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0349-intersection-of-two-arrays) |
@@ -44,6 +45,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0349-intersection-of-two-arrays) |
@@ -162,4 +164,16 @@
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0137-single-number-ii) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
