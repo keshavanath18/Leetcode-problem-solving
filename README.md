@@ -100,6 +100,7 @@
 | ------- |
 | [0165-compare-version-numbers](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0242-valid-anagram) |
+| [0443-string-compression](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0459-repeated-substring-pattern) |
 | [0504-base-7](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0520-detect-capital) |
@@ -124,6 +125,7 @@
 | [0165-compare-version-numbers](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0165-compare-version-numbers) |
 | [0202-happy-number](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0349-intersection-of-two-arrays) |
+| [0443-string-compression](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0942-di-string-match](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0942-di-string-match) |
 ## Heap (Priority Queue)
