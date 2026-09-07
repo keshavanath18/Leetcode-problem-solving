@@ -61,6 +61,7 @@
 | [0202-happy-number](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0204-count-primes) |
 | [0504-base-7](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0504-base-7) |
+| [0633-sum-of-square-numbers](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0633-sum-of-square-numbers) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3875-construct-uniform-parity-array-i) |
@@ -91,6 +92,7 @@
 | [0069-sqrtx](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0162-find-peak-element) |
 | [0349-intersection-of-two-arrays](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0349-intersection-of-two-arrays) |
+| [0633-sum-of-square-numbers](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0633-sum-of-square-numbers) |
 ## Newton's Method
 |  |
 | ------- |
@@ -127,6 +129,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0633-sum-of-square-numbers](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0633-sum-of-square-numbers) |
 | [0942-di-string-match](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0942-di-string-match) |
 ## Heap (Priority Queue)
 |  |
