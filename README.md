@@ -101,6 +101,7 @@
 ## String
 |  |
 | ------- |
+| [0065-valid-number](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0065-valid-number) |
 | [0165-compare-version-numbers](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0443-string-compression) |
