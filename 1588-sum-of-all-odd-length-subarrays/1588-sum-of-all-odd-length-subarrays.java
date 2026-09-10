@@ -3,14 +3,14 @@ class Solution {
         int total = 0;
         int n = arr.length;
 
-        for (int len = 1; len <= n; len += 2) {
+        for (int k= 1; k<= n; k += 2) {
             int windowSum = 0;
-            for (int i = 0; i < len; i++) {
+            for (int i = 0; i < k; i++) {
                 windowSum += arr[i];
             }
             total += windowSum;
-            for (int i = len; i < n; i++) {
-                windowSum += arr[i] - arr[i - len];
+            for (int i = k; i < n; i++) {
+                windowSum += arr[i] - arr[i - k];
                 total += windowSum;
             }
         }
