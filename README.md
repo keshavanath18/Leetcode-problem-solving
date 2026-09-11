@@ -45,6 +45,7 @@
 | [0217-contains-duplicate](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0383-ransom-note) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2729-check-if-the-number-is-fascinating) |
@@ -114,6 +115,7 @@
 | [0065-valid-number](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0065-valid-number) |
 | [0165-compare-version-numbers](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0383-ransom-note) |
 | [0443-string-compression](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0459-repeated-substring-pattern) |
 | [0504-base-7](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0504-base-7) |
@@ -167,6 +169,7 @@
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0383-ransom-note) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Stack
 |  |
