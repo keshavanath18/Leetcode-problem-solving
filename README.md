@@ -194,6 +194,7 @@
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0137-single-number-ii) |
+| [0191-number-of-1-bits](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0191-number-of-1-bits) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -240,4 +241,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0509-fibonacci-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
