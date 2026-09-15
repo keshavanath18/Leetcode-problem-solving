@@ -129,6 +129,7 @@
 | [1528-shuffle-string](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1528-shuffle-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2109-adding-spaces-to-a-string](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2109-adding-spaces-to-a-string) |
+| [2129-capitalize-the-title](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2129-capitalize-the-title) |
 | [3340-check-balanced-string](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3340-check-balanced-string) |
 ## Simulation
 |  |
