@@ -118,6 +118,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0010-regular-expression-matching) |
 | [0065-valid-number](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0065-valid-number) |
 | [0165-compare-version-numbers](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0165-compare-version-numbers) |
 | [0179-largest-number](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0179-largest-number) |
@@ -243,10 +244,12 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0010-regular-expression-matching) |
 | [0509-fibonacci-number](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0010-regular-expression-matching) |
 | [0509-fibonacci-number](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
