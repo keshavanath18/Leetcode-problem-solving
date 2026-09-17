@@ -69,6 +69,7 @@
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0204-count-primes) |
@@ -205,6 +206,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0029-divide-two-integers) |
 | [0137-single-number-ii](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0191-number-of-1-bits) |
 ## Bucket Sort
