@@ -50,6 +50,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0389-find-the-difference) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2729-check-if-the-number-is-fascinating) |
@@ -63,6 +64,7 @@
 | [0242-valid-anagram](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0414-third-maximum-number) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -130,6 +132,7 @@
 | [0242-valid-anagram](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0389-find-the-difference) |
 | [0443-string-compression](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0459-repeated-substring-pattern) |
 | [0504-base-7](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0504-base-7) |
@@ -215,6 +218,7 @@
 | [0191-number-of-1-bits](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0389-find-the-difference) |
 ## Bucket Sort
 |  |
 | ------- |
