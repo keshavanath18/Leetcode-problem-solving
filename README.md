@@ -75,6 +75,7 @@
 | [0204-count-primes](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0233-number-of-digit-one) |
+| [0263-ugly-number](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0263-ugly-number) |
 | [0504-base-7](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0633-sum-of-square-numbers) |
