@@ -16,6 +16,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0414-third-maximum-number) |
 | [0523-continuous-subarray-sum](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0523-continuous-subarray-sum) |
+| [0553-optimal-division](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0553-optimal-division) |
 | [0643-maximum-average-subarray-i](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0643-maximum-average-subarray-i) |
 | [0942-di-string-match](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0942-di-string-match) |
 | [1046-last-stone-weight](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1046-last-stone-weight) |
@@ -85,6 +86,7 @@
 | [0507-perfect-number](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0523-continuous-subarray-sum) |
+| [0553-optimal-division](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0553-optimal-division) |
 | [0633-sum-of-square-numbers](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0633-sum-of-square-numbers) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2729-check-if-the-number-is-fascinating) |
@@ -267,6 +269,7 @@
 | [0010-regular-expression-matching](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0010-regular-expression-matching) |
 | [0233-number-of-digit-one](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0233-number-of-digit-one) |
 | [0509-fibonacci-number](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0509-fibonacci-number) |
+| [0553-optimal-division](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0553-optimal-division) |
 ## Recursion
 |  |
 | ------- |
