@@ -15,6 +15,7 @@
 | [0274-h-index](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0414-third-maximum-number) |
+| [0523-continuous-subarray-sum](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0523-continuous-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0643-maximum-average-subarray-i) |
 | [0942-di-string-match](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0942-di-string-match) |
 | [1046-last-stone-weight](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1046-last-stone-weight) |
@@ -51,6 +52,7 @@
 | [0383-ransom-note](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0389-find-the-difference) |
+| [0523-continuous-subarray-sum](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0523-continuous-subarray-sum) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2729-check-if-the-number-is-fascinating) |
@@ -82,6 +84,7 @@
 | [0504-base-7](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0509-fibonacci-number) |
+| [0523-continuous-subarray-sum](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0633-sum-of-square-numbers) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2729-check-if-the-number-is-fascinating) |
@@ -234,6 +237,7 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0164-maximum-gap) |
+| [0523-continuous-subarray-sum](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0523-continuous-subarray-sum) |
 ## Counting Sort
 |  |
 | ------- |
@@ -255,6 +259,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0209-minimum-size-subarray-sum) |
+| [0523-continuous-subarray-sum](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0523-continuous-subarray-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1588-sum-of-all-odd-length-subarrays) |
 ## Dynamic Programming
 |  |
