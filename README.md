@@ -81,6 +81,7 @@
 | [0231-power-of-two](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0233-number-of-digit-one) |
 | [0263-ugly-number](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0263-ugly-number) |
+| [0279-perfect-squares](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0279-perfect-squares) |
 | [0371-sum-of-two-integers](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0371-sum-of-two-integers) |
 | [0504-base-7](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0507-perfect-number) |
@@ -268,6 +269,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0010-regular-expression-matching) |
 | [0233-number-of-digit-one](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0233-number-of-digit-one) |
+| [0279-perfect-squares](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0509-fibonacci-number) |
 | [0553-optimal-division](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0553-optimal-division) |
 ## Recursion
@@ -285,4 +287,16 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0191-number-of-1-bits) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0279-perfect-squares) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
