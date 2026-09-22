@@ -57,6 +57,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2729-check-if-the-number-is-fascinating) |
+| [3146-permutation-difference-between-two-strings](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3146-permutation-difference-between-two-strings) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sorting
 |  |
@@ -151,6 +152,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2109-adding-spaces-to-a-string](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2109-adding-spaces-to-a-string) |
 | [2129-capitalize-the-title](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2129-capitalize-the-title) |
+| [3146-permutation-difference-between-two-strings](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3146-permutation-difference-between-two-strings) |
 | [3340-check-balanced-string](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3340-check-balanced-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
