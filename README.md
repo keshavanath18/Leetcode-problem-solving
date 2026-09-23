@@ -90,6 +90,7 @@
 | [0523-continuous-subarray-sum](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0523-continuous-subarray-sum) |
 | [0553-optimal-division](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0553-optimal-division) |
 | [0633-sum-of-square-numbers](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0633-sum-of-square-numbers) |
+| [0829-consecutive-numbers-sum](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0829-consecutive-numbers-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -101,6 +102,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0204-count-primes) |
+| [0829-consecutive-numbers-sum](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0829-consecutive-numbers-sum) |
 ## Number Theory
 |  |
 | ------- |
