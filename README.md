@@ -86,6 +86,7 @@
 | [0263-ugly-number](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0279-perfect-squares) |
 | [0371-sum-of-two-integers](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0371-sum-of-two-integers) |
+| [0415-add-strings](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0509-fibonacci-number) |
@@ -145,6 +146,7 @@
 | [0383-ransom-note](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0389-find-the-difference) |
+| [0415-add-strings](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0459-repeated-substring-pattern) |
 | [0504-base-7](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0504-base-7) |
@@ -163,6 +165,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0415-add-strings) |
 | [2109-adding-spaces-to-a-string](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3498-reverse-degree-of-a-string](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3498-reverse-degree-of-a-string) |
