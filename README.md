@@ -148,6 +148,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0415-add-strings) |
+| [0434-number-of-segments-in-a-string](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0459-repeated-substring-pattern) |
 | [0504-base-7](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0504-base-7) |
