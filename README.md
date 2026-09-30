@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0053-maximum-subarray) |
 | [0137-single-number-ii](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0164-maximum-gap) |
@@ -288,6 +289,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0010-regular-expression-matching) |
+| [0053-maximum-subarray](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0053-maximum-subarray) |
 | [0233-number-of-digit-one](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0233-number-of-digit-one) |
 | [0279-perfect-squares](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0509-fibonacci-number) |
@@ -306,6 +308,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0191-number-of-1-bits) |
 ## Breadth-First Search
 |  |
