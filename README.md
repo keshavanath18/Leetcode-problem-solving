@@ -144,6 +144,7 @@
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0010-regular-expression-matching) |
+| [0020-valid-parentheses](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0020-valid-parentheses) |
 | [0065-valid-number](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0065-valid-number) |
 | [0151-reverse-words-in-a-string](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0165-compare-version-numbers) |
@@ -226,6 +227,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0020-valid-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
@@ -328,4 +330,8 @@
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0881-boats-to-save-people) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
