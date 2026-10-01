@@ -23,6 +23,7 @@
 | [0881-boats-to-save-people](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0881-boats-to-save-people) |
 | [0942-di-string-match](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0942-di-string-match) |
 | [1046-last-stone-weight](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1046-last-stone-weight) |
+| [1207-unique-number-of-occurrences](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -58,6 +59,7 @@
 | [0389-find-the-difference](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0500-keyboard-row) |
 | [0523-continuous-subarray-sum](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0523-continuous-subarray-sum) |
+| [1207-unique-number-of-occurrences](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2729-check-if-the-number-is-fascinating) |
