@@ -145,6 +145,7 @@
 | [0008-string-to-integer-atoi](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0032-longest-valid-parentheses) |
 | [0065-valid-number](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0065-valid-number) |
 | [0151-reverse-words-in-a-string](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0165-compare-version-numbers) |
@@ -228,6 +229,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0032-longest-valid-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
@@ -293,6 +295,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0010-regular-expression-matching) |
+| [0032-longest-valid-parentheses](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0053-maximum-subarray) |
 | [0233-number-of-digit-one](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0233-number-of-digit-one) |
 | [0279-perfect-squares](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0279-perfect-squares) |
@@ -334,4 +337,5 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
