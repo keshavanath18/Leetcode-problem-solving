@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0053-maximum-subarray) |
+| [0128-longest-consecutive-sequence](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0164-maximum-gap) |
@@ -50,6 +51,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0242-valid-anagram) |
@@ -341,4 +343,8 @@
 | [0020-valid-parentheses](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0856-score-of-parentheses) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
