@@ -169,6 +169,7 @@
 | [0777-swap-adjacent-in-lr-string](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0777-swap-adjacent-in-lr-string) |
 | [0796-rotate-string](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0942-di-string-match) |
 | [1528-shuffle-string](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1528-shuffle-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -236,6 +237,7 @@
 | [0020-valid-parentheses](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
@@ -250,6 +252,7 @@
 | ------- |
 | [0179-largest-number](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0179-largest-number) |
 | [0881-boats-to-save-people](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0881-boats-to-save-people) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0942-di-string-match) |
 ## Bit Manipulation
 |  |
@@ -345,6 +348,7 @@
 | [0020-valid-parentheses](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Union-Find
 |  |
 | ------- |
