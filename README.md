@@ -17,6 +17,7 @@
 | [0274-h-index](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0500-keyboard-row) |
 | [0523-continuous-subarray-sum](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0523-continuous-subarray-sum) |
 | [0553-optimal-division](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0553-optimal-division) |
@@ -60,6 +61,7 @@
 | [0383-ransom-note](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0389-find-the-difference) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0500-keyboard-row) |
 | [0523-continuous-subarray-sum](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0523-continuous-subarray-sum) |
 | [1207-unique-number-of-occurrences](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1207-unique-number-of-occurrences) |
@@ -79,6 +81,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0881-boats-to-save-people](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0881-boats-to-save-people) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
