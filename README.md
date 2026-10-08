@@ -254,6 +254,7 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0179-largest-number) |
+| [0397-integer-replacement](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0397-integer-replacement) |
 | [0881-boats-to-save-people](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0942-di-string-match) |
@@ -266,6 +267,7 @@
 | [0231-power-of-two](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0389-find-the-difference) |
+| [0397-integer-replacement](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0397-integer-replacement) |
 | [0476-number-complement](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0476-number-complement) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Bucket Sort
@@ -312,6 +314,7 @@
 | [0053-maximum-subarray](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0053-maximum-subarray) |
 | [0233-number-of-digit-one](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0233-number-of-digit-one) |
 | [0279-perfect-squares](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0279-perfect-squares) |
+| [0397-integer-replacement](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0509-fibonacci-number) |
 | [0553-optimal-division](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0553-optimal-division) |
 ## Recursion
@@ -324,6 +327,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
