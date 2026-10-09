@@ -40,6 +40,7 @@
 | [2319-check-if-matrix-is-x-matrix](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3142-check-if-grid-satisfies-conditions) |
+| [3151-special-array-i](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3151-special-array-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sliding Window
