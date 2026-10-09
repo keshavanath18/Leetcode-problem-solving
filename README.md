@@ -181,6 +181,7 @@
 | [2129-capitalize-the-title](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2129-capitalize-the-title) |
 | [2810-faulty-keyboard](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2810-faulty-keyboard) |
 | [3146-permutation-difference-between-two-strings](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3146-permutation-difference-between-two-strings) |
+| [3330-find-the-original-typed-string-i](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3330-find-the-original-typed-string-i) |
 | [3340-check-balanced-string](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3340-check-balanced-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3498-reverse-degree-of-a-string) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
