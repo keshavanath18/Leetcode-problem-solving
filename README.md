@@ -38,6 +38,7 @@
 | [2109-adding-spaces-to-a-string](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2319-check-if-matrix-is-x-matrix) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3151-special-array-i](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3151-special-array-i) |
@@ -118,6 +119,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0204-count-primes) |
 | [0829-consecutive-numbers-sum](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0829-consecutive-numbers-sum) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Number Theory
 |  |
 | ------- |
