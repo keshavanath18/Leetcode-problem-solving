@@ -16,6 +16,7 @@
 | [0239-sliding-window-maximum](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0239-sliding-window-maximum) |
 | [0274-h-index](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0500-keyboard-row](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0500-keyboard-row) |
@@ -60,6 +61,7 @@
 | [0217-contains-duplicate](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0389-find-the-difference) |
@@ -81,6 +83,7 @@
 | [0242-valid-anagram](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -143,6 +146,7 @@
 | [0162-find-peak-element](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0633-sum-of-square-numbers) |
 ## Newton's Method
 |  |
@@ -211,6 +215,7 @@
 | [0165-compare-version-numbers](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0165-compare-version-numbers) |
 | [0202-happy-number](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0633-sum-of-square-numbers](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0633-sum-of-square-numbers) |
