@@ -45,6 +45,7 @@
 | [3142-check-if-grid-satisfies-conditions](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3151-special-array-i](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3151-special-array-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sliding Window
 |  |
@@ -92,6 +93,7 @@
 | [0881-boats-to-save-people](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0881-boats-to-save-people) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Math
 |  |
 | ------- |
@@ -278,6 +280,7 @@
 | [0881-boats-to-save-people](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0942-di-string-match) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Bit Manipulation
 |  |
 | ------- |
