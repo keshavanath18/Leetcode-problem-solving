@@ -26,6 +26,7 @@
 | [0881-boats-to-save-people](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0881-boats-to-save-people) |
 | [0942-di-string-match](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0942-di-string-match) |
 | [0976-largest-perimeter-triangle](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0976-largest-perimeter-triangle) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1046-last-stone-weight](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1046-last-stone-weight) |
 | [1207-unique-number-of-occurrences](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -285,6 +286,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0942-di-string-match) |
 | [0976-largest-perimeter-triangle](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0976-largest-perimeter-triangle) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Bit Manipulation
