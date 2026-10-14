@@ -120,6 +120,7 @@
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3875-construct-uniform-parity-array-i) |
@@ -284,6 +285,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0942-di-string-match) |
 | [0976-largest-perimeter-triangle](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0976-largest-perimeter-triangle) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Bit Manipulation
 |  |
