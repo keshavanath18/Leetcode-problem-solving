@@ -35,6 +35,7 @@
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1528-shuffle-string](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1528-shuffle-string) |
+| [1539-kth-missing-positive-number](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1572-matrix-diagonal-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2090-k-radius-subarray-averages](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2090-k-radius-subarray-averages) |
@@ -157,6 +158,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0633-sum-of-square-numbers](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0633-sum-of-square-numbers) |
+| [1539-kth-missing-positive-number](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1539-kth-missing-positive-number) |
 | [2540-minimum-common-value](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2540-minimum-common-value) |
 ## Newton's Method
 |  |
