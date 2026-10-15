@@ -46,6 +46,7 @@
 | [2540-minimum-common-value](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2540-minimum-common-value) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3151-special-array-i](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3151-special-array-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -79,6 +80,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2540-minimum-common-value](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2540-minimum-common-value) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2729-check-if-the-number-is-fascinating) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3146-permutation-difference-between-two-strings) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sorting
@@ -404,4 +406,12 @@
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0976-largest-perimeter-triangle) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
