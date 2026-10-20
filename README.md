@@ -7,6 +7,7 @@
 | [0053-maximum-subarray](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0053-maximum-subarray) |
 | [0128-longest-consecutive-sequence](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0137-single-number-ii) |
+| [0152-maximum-product-subarray](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0179-largest-number) |
@@ -349,6 +350,7 @@
 | [0010-regular-expression-matching](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0152-maximum-product-subarray) |
 | [0233-number-of-digit-one](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0233-number-of-digit-one) |
 | [0279-perfect-squares](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0279-perfect-squares) |
 | [0397-integer-replacement](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0397-integer-replacement) |
