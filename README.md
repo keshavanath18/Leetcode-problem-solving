@@ -41,6 +41,7 @@
 | [1539-kth-missing-positive-number](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1572-matrix-diagonal-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1929-concatenation-of-array](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1929-concatenation-of-array) |
 | [2090-k-radius-subarray-averages](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2090-k-radius-subarray-averages) |
 | [2109-adding-spaces-to-a-string](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -214,6 +215,7 @@
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0415-add-strings) |
+| [1929-concatenation-of-array](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1929-concatenation-of-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2810-faulty-keyboard](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2810-faulty-keyboard) |
