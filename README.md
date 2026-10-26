@@ -42,6 +42,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1572-matrix-diagonal-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1720-decode-xored-array](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1720-decode-xored-array) |
 | [1929-concatenation-of-array](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1929-concatenation-of-array) |
 | [2090-k-radius-subarray-averages](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2090-k-radius-subarray-averages) |
 | [2109-adding-spaces-to-a-string](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2109-adding-spaces-to-a-string) |
@@ -319,6 +320,7 @@
 | [0476-number-complement](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0476-number-complement) |
 | [1486-xor-operation-in-an-array](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1486-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1720-decode-xored-array](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1720-decode-xored-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Bucket Sort
 |  |
