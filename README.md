@@ -126,6 +126,7 @@
 | [0633-sum-of-square-numbers](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0633-sum-of-square-numbers) |
 | [0829-consecutive-numbers-sum](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0829-consecutive-numbers-sum) |
 | [0976-largest-perimeter-triangle](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0976-largest-perimeter-triangle) |
+| [1486-xor-operation-in-an-array](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1486-xor-operation-in-an-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -312,6 +313,7 @@
 | [0389-find-the-difference](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0389-find-the-difference) |
 | [0397-integer-replacement](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0397-integer-replacement) |
 | [0476-number-complement](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0476-number-complement) |
+| [1486-xor-operation-in-an-array](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1486-xor-operation-in-an-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Bucket Sort
 |  |
