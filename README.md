@@ -209,6 +209,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1768-merge-strings-alternately](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2000-reverse-prefix-of-word](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2000-reverse-prefix-of-word) |
 | [2109-adding-spaces-to-a-string](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2109-adding-spaces-to-a-string) |
 | [2129-capitalize-the-title](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2129-capitalize-the-title) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2645-minimum-additions-to-make-valid-string) |
@@ -252,6 +253,7 @@
 | [0917-reverse-only-letters](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0917-reverse-only-letters) |
 | [0942-di-string-match](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0942-di-string-match) |
 | [1768-merge-strings-alternately](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1768-merge-strings-alternately) |
+| [2000-reverse-prefix-of-word](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2000-reverse-prefix-of-word) |
 | [2109-adding-spaces-to-a-string](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2540-minimum-common-value](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2540-minimum-common-value) |
@@ -289,6 +291,7 @@
 | [0856-score-of-parentheses](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [2000-reverse-prefix-of-word](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2000-reverse-prefix-of-word) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2645-minimum-additions-to-make-valid-string) |
 ## Monotonic Stack
 |  |
