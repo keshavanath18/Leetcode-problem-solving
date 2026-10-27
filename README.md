@@ -211,6 +211,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2109-adding-spaces-to-a-string](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2109-adding-spaces-to-a-string) |
 | [2129-capitalize-the-title](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2129-capitalize-the-title) |
+| [2645-minimum-additions-to-make-valid-string](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [2810-faulty-keyboard](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2810-faulty-keyboard) |
 | [3146-permutation-difference-between-two-strings](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3146-permutation-difference-between-two-strings) |
 | [3330-find-the-original-typed-string-i](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3330-find-the-original-typed-string-i) |
@@ -288,6 +289,7 @@
 | [0856-score-of-parentheses](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [2645-minimum-additions-to-make-valid-string](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2645-minimum-additions-to-make-valid-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -306,6 +308,7 @@
 | [0942-di-string-match](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0942-di-string-match) |
 | [0976-largest-perimeter-triangle](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0976-largest-perimeter-triangle) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [2645-minimum-additions-to-make-valid-string](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Bit Manipulation
@@ -372,6 +375,7 @@
 | [0397-integer-replacement](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0509-fibonacci-number) |
 | [0553-optimal-division](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0553-optimal-division) |
+| [2645-minimum-additions-to-make-valid-string](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2645-minimum-additions-to-make-valid-string) |
 ## Recursion
 |  |
 | ------- |
