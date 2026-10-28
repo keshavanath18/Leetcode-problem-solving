@@ -134,6 +134,7 @@
 | [2729-check-if-the-number-is-fascinating](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3870-count-commas-in-range](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3875-construct-uniform-parity-array-i) |
@@ -218,6 +219,7 @@
 | [3330-find-the-original-typed-string-i](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3330-find-the-original-typed-string-i) |
 | [3340-check-balanced-string](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3340-check-balanced-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3498-reverse-degree-of-a-string) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Simulation
 |  |
@@ -257,6 +259,7 @@
 | [2109-adding-spaces-to-a-string](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2540-minimum-common-value](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2540-minimum-common-value) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Heap (Priority Queue)
 |  |
@@ -330,6 +333,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1720-decode-xored-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Bucket Sort
 |  |
 | ------- |
