@@ -57,6 +57,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3875-construct-uniform-parity-array-i) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Sliding Window
 |  |
 | ------- |
@@ -263,6 +264,7 @@
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3794-reverse-string-prefix](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
