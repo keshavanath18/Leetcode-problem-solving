@@ -43,6 +43,7 @@
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1720-decode-xored-array) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1929-concatenation-of-array](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1929-concatenation-of-array) |
 | [2090-k-radius-subarray-averages](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2090-k-radius-subarray-averages) |
 | [2109-adding-spaces-to-a-string](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2109-adding-spaces-to-a-string) |
@@ -107,6 +108,7 @@
 | [0976-largest-perimeter-triangle](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0976-largest-perimeter-triangle) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Math
 |  |
@@ -257,6 +259,7 @@
 | [0917-reverse-only-letters](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0917-reverse-only-letters) |
 | [0942-di-string-match](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0942-di-string-match) |
 | [1768-merge-strings-alternately](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1768-merge-strings-alternately) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2000-reverse-prefix-of-word](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2000-reverse-prefix-of-word) |
 | [2109-adding-spaces-to-a-string](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -318,6 +321,7 @@
 | [0942-di-string-match](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0942-di-string-match) |
 | [0976-largest-perimeter-triangle](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/0976-largest-perimeter-triangle) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3727-maximum-alternating-sum-of-squares) |
