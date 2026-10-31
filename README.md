@@ -47,6 +47,7 @@
 | [1929-concatenation-of-array](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1929-concatenation-of-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2090-k-radius-subarray-averages](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2090-k-radius-subarray-averages) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2319-check-if-matrix-is-x-matrix) |
@@ -216,6 +217,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2000-reverse-prefix-of-word](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2000-reverse-prefix-of-word) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2109-adding-spaces-to-a-string) |
 | [2129-capitalize-the-title](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2129-capitalize-the-title) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2645-minimum-additions-to-make-valid-string) |
@@ -264,6 +266,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2000-reverse-prefix-of-word](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2000-reverse-prefix-of-word) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2540-minimum-common-value](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2540-minimum-common-value) |
