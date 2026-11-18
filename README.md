@@ -227,6 +227,7 @@
 | [2129-capitalize-the-title](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2129-capitalize-the-title) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [2810-faulty-keyboard](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2810-faulty-keyboard) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3146-permutation-difference-between-two-strings](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3146-permutation-difference-between-two-strings) |
 | [3330-find-the-original-typed-string-i](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3330-find-the-original-typed-string-i) |
 | [3340-check-balanced-string](https://github.com/keshavanath18/Leetcode-problem-solving/tree/master/3340-check-balanced-string) |
